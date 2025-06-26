@@ -1,0 +1,4 @@
+[2025-06-23 19:11:57] --- Synchronization 1/1 started ---
+[2025-06-23 19:11:57] Removed file: sync_test_env/replica/old/x.txt
+[2025-06-23 19:11:57] Removed directory: sync_test_env/replica/old
+[2025-06-23 19:11:57] --- Synchronization 1/1 finished ---

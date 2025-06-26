@@ -1,0 +1,25 @@
+[2025-06-23 19:06:34] --- Synchronization 1/1 started ---
+[2025-06-23 19:06:34] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/c.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/c.txt
+[2025-06-23 19:06:34] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/b.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/b.txt
+[2025-06-23 19:06:34] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/a.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/a.txt
+[2025-06-23 19:06:34] Created directory: /Users/alexmultykh/Desktop/python_assignment/replica/dir
+[2025-06-23 19:06:34] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/dir/d.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/dir/d.txt
+[2025-06-23 19:06:34] --- Synchronization 1/1 finished ---
+[2025-06-23 19:19:31] --- Synchronization 1/1 started ---
+[2025-06-23 19:19:31] Created directory: /Users/alexmultykh/Desktop/python_assignment/replica/dir
+[2025-06-23 19:19:31] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/c.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/c.txt
+[2025-06-23 19:19:31] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/b.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/b.txt
+[2025-06-23 19:19:31] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/a.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/a.txt
+[2025-06-23 19:19:31] Copied file: /Users/alexmultykh/Desktop/python_assignment/source/dir/d.txt -> /Users/alexmultykh/Desktop/python_assignment/replica/dir/d.txt
+[2025-06-23 19:19:31] --- Synchronization 1/1 finished ---
+[2025-06-23 20:28:10] --- Synchronization 1/1 started ---
+[2025-06-23 20:28:10] Removed file: /Users/alexmultykh/Desktop/python_assignment/replica/c.txt
+[2025-06-23 20:28:10] --- Synchronization 1/1 finished ---
+[2025-06-24 14:33:25] --- Synchronization 1/1 started ---
+[2025-06-24 14:33:25] Removed file: /Users/alexmultykh/Desktop/python_assignment/replica/dir/d.txt
+[2025-06-24 14:33:25] Removed file: /Users/alexmultykh/Desktop/python_assignment/replica/b.txt
+[2025-06-24 14:33:25] Removed file: /Users/alexmultykh/Desktop/python_assignment/replica/a.txt
+[2025-06-24 14:33:25] Removed directory: /Users/alexmultykh/Desktop/python_assignment/replica/dir
+[2025-06-24 14:33:25] --- Synchronization 1/1 finished ---
+[2025-06-24 14:34:00] --- Synchronization 1/1 started ---
+[2025-06-24 14:34:00] --- Synchronization 1/1 finished ---
